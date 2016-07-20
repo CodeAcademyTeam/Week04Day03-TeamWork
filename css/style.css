@@ -1,0 +1,16 @@
+#main {
+  background: #698752;
+}
+#main .content {
+  width: 600px;
+  height: 300px;
+  background: #9cb788;
+}
+#news {
+  background: #38482b;
+}
+#news .content {
+  width: 700px;
+  height: 400px;
+  background: #d1ddc8;
+}
