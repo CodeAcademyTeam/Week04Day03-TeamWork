@@ -2,15 +2,9 @@
   background: #698752;
 }
 #main .content {
-  width: 100%;
+  width: 600px;
   height: 300px;
   background: #9cb788;
-  color: #000000;
-  text-align: center;
-}
-#main .content .text {
-  width: 20%;
-  margin: 0 auto;
 }
 #news {
   background: #38482b;
