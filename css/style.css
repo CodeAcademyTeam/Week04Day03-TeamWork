@@ -16,7 +16,12 @@
   background: #38482b;
 }
 #news .content {
+  margin: 0 auto;
+  text-align: center;
   width: 700px;
   height: 400px;
   background: #d1ddc8;
+}
+#news h1 {
+  text-transform: uppercase;
 }
