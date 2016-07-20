@@ -1,8 +1,14 @@
 #main{
 	background:@mainColor;
 	.content{
-		width:600px;
+		width:100%;
 		height:300px;
-		background:lighten(@mainColor, 20%)
+		background:lighten(@mainColor, 20%);
+		color: darken(@mainColor, 90%);
+		text-align: center;
+		.text {
+			width: 20%;
+			margin: 0 auto;
+		}
 	}
 }
